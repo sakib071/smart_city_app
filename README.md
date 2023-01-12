@@ -1,2 +1,2 @@
 # smart_city_app
-Here we will share our code and resources related to our Android Studio project. 
+Here I will share the code and resources related to our Android Studio project. 
